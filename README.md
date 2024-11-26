@@ -17,6 +17,8 @@
 + server.py - [сервер на Flask](https://github.com/veshua/diplom_sf/blob/main/server.py)
 + client.py - [клиент для тестирования](https://github.com/veshua/diplom_sf/blob/main/client.py)
 
++ Дополнительно - *.html-файлы (3 шт.) - отчеты по данным, сформированный с помощью ydata-profiling на разных этапах работы
+
 ## Цели проекта
 
 1. Провести разведывательный анализ и очистку исходных данных.
@@ -36,4 +38,4 @@
 
 
 ## Результат
-Задачи проекта выполнены. Все работы по этапам проведены. 
+Задачи проекта выполнены. Все работы по этапам проведены.  Выводы представлены в конце файла [diplom_main_2.ipynb](https://github.com/veshua/diplom_sf/blob/main/diplom_main_2.ipynb)
